@@ -1,0 +1,50 @@
+{
+  "type": "document",
+  "nodes": [
+    {
+      "type": "paragraph",
+      "style": { "textAlign": "left", "background": "#ccc" },
+      "segments": [
+        {
+          "text": "abc",
+          "style": {
+            "fontWeight": "bold",
+            "fontStyle": "italic",
+            "color": "red"
+          }
+        },
+        { "text": "bds" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": { "textAlign": "center", "background": "#bbb" },
+      "segments": [
+        {
+          "text": "abc",
+          "style": {
+            "fontWeight": "bold",
+            "fontStyle": "italic",
+            "color": "red"
+          }
+        },
+        { "text": "bds" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": { "textAlign": "right", "background": "#868686" },
+      "segments": [
+        {
+          "text": "abc",
+          "style": {
+            "fontWeight": "bold",
+            "fontStyle": "italic",
+            "color": "red"
+          }
+        },
+        { "text": "bds" }
+      ]
+    }
+  ]
+}
